@@ -1,6 +1,6 @@
 {
   "name": "nec-projector-controller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to control a NEC projector via rs-232 serial.",
   "main": "index.js",
   "scripts": {
