@@ -1,0 +1,19 @@
+{
+  "name": "nec-projector-controller",
+  "version": "1.0.0",
+  "description": "Utility to control a NEC projector via rs-232 serial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelarz/nec-projector-controller.git"
+  },
+  "author": "thelarz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thelarz/nec-projector-controller/issues"
+  },
+  "homepage": "https://github.com/thelarz/nec-projector-controller#readme"
+}
